@@ -17,6 +17,7 @@ namespace WindowsFormsApp2
         private string email;
         private char[] emailArray;
         private List<string> emailList=new List<string>();
+
         public Form1()
         {
             InitializeComponent();
